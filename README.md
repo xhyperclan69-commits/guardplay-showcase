@@ -16,4 +16,4 @@ Made with:
 - JavaScript
 
 Screenshot:
-![GuardPlay homepage](images/website.png)
+![GuardPlay homepage](website.png)
